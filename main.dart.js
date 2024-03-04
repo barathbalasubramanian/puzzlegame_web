@@ -74173,7 +74173,7 @@ $0(){--this.a.e},
 $S:0}
 A.jg.prototype={
 E(a){var s=null
-return A.fg(B.bc,A.b([A.nf(s,A.YB(275,new A.iI("image1.png",s,s),275),s,s,s,-50,-50,s),A.nf(s,A.YB(275,new A.iI("image2.png",s,s),275),s,s,-50,s,50,s),A.nf(s,A.YB(275,new A.iI("image4.png",s,s),275),s,s,s,-50,200,s),A.nf(s,A.YB(275,new A.iI("image3.png",s,s),275),s,s,-30,s,350,s)],t.p),B.H,B.aM)}}
+return A.fg(B.bc,A.b([A.nf(s,A.YB(275,new A.iI("assets/image1.png",s,s),275),s,s,s,-50,-50,s),A.nf(s,A.YB(275,new A.iI("assets/image2.png",s,s),275),s,s,-50,s,50,s),A.nf(s,A.YB(275,new A.iI("image4.png",s,s),275),s,s,s,-50,200,s),A.nf(s,A.YB(275,new A.iI("image3.png",s,s),275),s,s,-30,s,350,s)],t.p),B.H,B.aM)}}
 A.ts.prototype={
 ag(){return new A.Km(B.k)}}
 A.Km.prototype={
